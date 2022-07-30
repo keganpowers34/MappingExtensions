@@ -1,0 +1,15 @@
+{
+  "_QPVersion": "0.1.2",
+  "name": "mappingextensions",
+  "id": "mappingextensions",
+  "author": "gorilla",
+  "version": "0.0.1",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "0.0.1",
+  "description": "0.0.1, version 0.0.1!",
+  "dependencies": [],
+  "modFiles": [],
+  "libraryFiles": [],
+  "fileCopies": [],
+  "copyExtensions": []
+}
