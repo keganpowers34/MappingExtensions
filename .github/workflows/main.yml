@@ -22,8 +22,8 @@ on:
 
 env:
     ndkname: android-ndk-r22
-    module_id: custompillows
-    qmodName: CustomPillows
+    module_id: mappingextensions
+    qmodName: MappingExtensions
 
 jobs:
   build:
